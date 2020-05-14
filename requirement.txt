@@ -1,0 +1,4 @@
+pip install opencv-python
+pip install opencv-contrib-python
+pip install argparse == 1.1
+pip install imutils==0.5.3
